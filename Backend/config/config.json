@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "E-commerce",
+    "host": "localhost",
+    "dialect": "mysql",
+    "seederStorage" :"sequelize"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "E-commerce",
+    "host": "localhost",
+    "dialect": "mysql",
+    "seederStorage" :"sequelize"
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "E-commerce",
+    "host": "localhost",
+    "dialect": "mysql",
+    "seederStorage" :"sequelize"
+  }
+}
